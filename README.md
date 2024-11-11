@@ -1,62 +1,67 @@
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">A passionate Computer Science Engineering student with a focus on Artificial Intelligence and Machine Learning</h3>
+<h1 align="center">Himanshu Singh</h1>
+<h3 align="center">Focused on Android Development, Java, and AI/ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuSingh&label=Profile%20views&color=FFD3B6&style=flat" alt="Profile Views" /> </p>
 
 ---
 
-- 🌱 **I’m currently learning**: Python (from scratch to support my machine learning journey)
+- **Projects**:
+  - Snake Game (Java, Swing)
+  - Pong Game (Java, Swing)
+  - Counter App (Android, Java)
+  - Custom Painting Canvas (Java Swing) *(In Progress)*
+  - Dragon Simulator 2D (Java Swing) *(In Progress)*
+  - Treasure Hunting Game *(In Progress)*
+  - Naruto Sound Track App (Android, Java)
+  - Lucky Number Generator (Android, Java)
 
-- 👨‍💻 **Projects I've worked on**:
-  - Snake Game in Java using Swing
-  - Angry Bird game in Java
-  - Counter App in Android (Java)  
-  - Painting Canvas in Java Swing with tools for drawing lines, circles, and erasing
-
-- 🔍 **Focus Areas**:
+- **Specialized In**:
   - Android App Development
-  - Backend Development with API integration
-  - Implementing AI/ML techniques
-  - Applying SOLID principles in Java and exploring Design Patterns
-  - Data Handling and Database Management
+  - Backend API Integration
+  - Implementing SOLID principles
 
-- 💼 **Career Goals**:
-  - To become a Java Developer with contributions to the Oracle team
-  - Open to unpaid opportunities in Android development for hands-on experience
-  - Currently building a personal project that tracks Java updates, current affairs, and technology news
+- **Objective**:
+  - Contribute as a Java Developer on the Oracle team
+  - Open to unpaid Android development work to gain experience
+  - Building a personal project to track updates in Java or (Python), current affairs, and technology, available on both web and app platforms.
 
-- 📜 **Technical Skills**:
-  - **Languages**: Java, C++, Kotlin, Python (beginner)
-  - **Android Development**: Intents, Layouts, Views, Lifecycle management
-  - **Computer Science Fundamentals**: Sorting algorithms, SOLID Principles, Convex Hull problem
+- **Technical Summary**:
+  - **Languages**: Java, C++, Kotlin, Python
+  - **Android Skills**: Layouts, Views, Intents, Lifecycle Management
+  - **CS Basics**: Sorting, SOLID principles, Convex Hull
 
-- 📝 **Note-Taking**: Using **Obsidian** for organized notes on Java, Android development, and git commands with examples
-
-- 📈 **Interests**:
-  - Competitive Programming (Studying Sorting algorithms, Data Structures)
-  - Exploring Machine Learning and AI fundamentals
-
-- 🔒 **Security Preferences**:
-  - Profile information is secured by a password, and password resets are restricted for privacy.
+- **Notes**:
+  - Using Obsidian for organized notes on Java, Android, and Git
 
 ---
 
 ### Tech Stack
 
-- **Languages**: Java, C++, Kotlin, Python (in progress)
-- **Frameworks/Libraries**: Android SDK, Java Swing, Obsidian (note-taking)
-- **Database**: API data handling and management for backend integration
+- **Languages**: Java, C++, Kotlin, Python
+- **Frameworks/Libraries**: Android SDK, Java Swing, Obsidian
 - **Tools**: Git, GitHub
 
 ---
 
-### Connect with me:
+### Data Structures & Algorithms (DSA)
 
-- [LinkedIn](https://www.linkedin.com/in/himanshu-singh)
-- [Email](mailto:your-email@example.com)
+- **Array**: Basic implementation and operations like insertion, deletion, and traversal.
+- **Linked List (Doubly)**: Creation and manipulation of doubly linked lists.
+- **Stack**: Push, pop, peek operations, and use cases like balancing parentheses and expression evaluation.
+- **Queue (Circular Queue)**: Queue operations with a circular array, used in scenarios like CPU scheduling.
+- **HashMap**: Key-value pair storage, and operations like put, get, and remove.
+- **HashSets**: Unordered collection for storing unique elements.
+- **Disjoint Sets**: Union-Find structure for handling connectivity problems.
 
 ---
 
-### GitHub Stats
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/himanshu-singh-552411251/)
+- [Email](himanshusr451tehs@gmail.com)
+
+---
+
+### Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HimanshuSingh&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuSingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
