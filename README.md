@@ -38,7 +38,7 @@
 ### Tech Stack
 
 - **Languages**: Java, C++, Kotlin, Python
-- **Frameworks/Libraries**: Android SDK, Java Swing, Obsidian
+- **Frameworks/Libraries**: Android SDK, Java Swing, Spring Boot, Obsidian
 - **Tools**: Git, GitHub
 
 ---
@@ -58,7 +58,7 @@
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/himanshu-singh-552411251/)
-- [Email](himanshusr451tehs@gmail.com)
+- [Email](mailto:himanshusr451tehs@gmail.com)
 
 ---
 
