@@ -14,11 +14,15 @@
   - Treasure Hunting Game *(In Progress)*
   - Naruto Sound Track App (Android, Java)
   - Lucky Number Generator (Android, Java)
+  - Train Booking System (Python)
+  - Parking System (Python)
+  - Image Processing (Machine Learning, Python, Numpy, matplotlib)
 
 - **Specialized In**:
   - Android App Development
   - Backend API Integration
   - Implementing SOLID principles
+  - Machine Learning 
 
 - **Objective**:
   - Contribute as a Java Developer on the Oracle team
@@ -29,9 +33,10 @@
   - **Languages**: Java, C++, Kotlin, Python
   - **Android Skills**: Layouts, Views, Intents, Lifecycle Management
   - **CS Basics**: Sorting, SOLID principles, Convex Hull
+  - **Machine Learning**: Image Procesing (Working..)
 
 - **Notes**:
-  - Using Obsidian for organized notes on Java, Android, and Git
+  - Using Obsidian for organized notes on Java, Python, Android, and Git
 
 ---
 
