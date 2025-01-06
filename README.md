@@ -16,13 +16,17 @@
   - Lucky Number Generator (Android, Java)
   - Train Booking System (Python)
   - Parking System (Python)
-  - Image Processing (Machine Learning, Python, Numpy, matplotlib)
+  - Image Processing (Machine Learning, Python, Numpy, Matplotlib)
+  - Classification Problems in Machine Learning (Sklearn, PyTorch)
+  - Neural Network Implementation (Python, Numpy)
+  - CNN, RNN for Image Recognition and Sequential Data (PyTorch)
 
 - **Specialized In**:
   - Android App Development
   - Backend API Integration
-  - Implementing SOLID principles
-  - Machine Learning 
+  - Implementing SOLID Principles
+  - Machine Learning (Image Processing, Classification, Neural Networks)
+  - Deep Learning (PyTorch, CNN, RNN)
 
 - **Objective**:
   - Contribute as a Java Developer on the Oracle team
@@ -32,8 +36,9 @@
 - **Technical Summary**:
   - **Languages**: Java, C++, Kotlin, Python
   - **Android Skills**: Layouts, Views, Intents, Lifecycle Management
-  - **CS Basics**: Sorting, SOLID principles, Convex Hull
-  - **Machine Learning**: Image Procesing (Working..)
+  - **CS Basics**: Sorting, SOLID Principles, Convex Hull, DSA
+  - **Machine Learning**: Image Processing (Working), Classification (Sklearn, PyTorch), Neural Networks (Numpy, PyTorch)
+  - **Deep Learning**: Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)
 
 - **Notes**:
   - Using Obsidian for organized notes on Java, Python, Android, and Git
@@ -43,7 +48,7 @@
 ### Tech Stack
 
 - **Languages**: Java, C++, Kotlin, Python
-- **Frameworks/Libraries**: Android SDK, Java Swing, Spring Boot, Obsidian
+- **Frameworks/Libraries**: Android SDK, Java Swing, Spring Boot, PyTorch, Sklearn, Obsidian
 - **Tools**: Git, GitHub
 
 ---
