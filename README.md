@@ -12,14 +12,17 @@ I’ve built multiple machine learning and deep learning projects including cust
 **Fun Facts:**
 - I prefer writing my own models and tools instead of relying on existing libraries
 - Strong interest in neural networks, optimization, and system level AI design
-- Attack on Titan is my favorite anime
 - I automate everything I possibly can
-- For webseries: Game of Thrones and Breaking Bad go straight to the top
+- Game of Thrones & Breaking Bad on top
+- Berserk and Vagabond define manga
+- Attack on Titan stays unmatched
 
 **Hobbies:**
 - Deep math and optimization
 - Learning difficult concepts
 - Privacy and minimalism
+- Manga
+- Western web-series
 
 ---
 
