@@ -1,28 +1,6 @@
 ### Hey, I’m Himanshu
 
-I’m an **AI Engineer based in India**, focused on building intelligent systems, custom ML frameworks, and end-to-end AI pipelines.
-
-I build things from scratch: neural networks, ML algorithms, optimization routines, data pipelines, and full LLM systems. If an idea comes to mind, I usually ship it.
-
-My main **AI Systems Stack** includes **LangGraph, LangChain, ChromaDB, and Advanced RAG architectures**.
-On the core ML side, I work with **NumPy, Python, PyTorch**, and my own frameworks **Quantis** (ML) and **SparksNet** (DL).
-
-I’ve built multiple machine learning and deep learning projects including custom CNNs, RNNs, image processing pipelines, and complete frameworks designed for experimentation.
-
-**Fun Facts:**
-- I prefer writing my own models and tools instead of relying on existing libraries
-- Strong interest in neural networks, optimization, and system level AI design
-- I automate everything I possibly can
-- Game of Thrones & Breaking Bad on top
-- Berserk and Vagabond define manga
-- Attack on Titan stays unmatched
-
-**Hobbies:**
-- Deep math and optimization
-- Learning difficult concepts
-- Privacy and minimalism
-- Manga
-- Western web-series
+I train deep neural networks, debug deep architectures, and build deep learning systems from scratch.
 
 ---
 
